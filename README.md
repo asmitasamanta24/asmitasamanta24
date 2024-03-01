@@ -8,4 +8,4 @@
 
 📊 Experienced in data science methodologies, applying analytical techniques to solve complex business problems.
 
-📈 Excited about the intersection of technology and data, with a commitment to continuous learning and growth in the ever-evolving field of data science.Hi, I’m @asmitasamanta24
+📈 Excited about the intersection of technology and data, with a commitment to continuous learning and growth in the ever-evolving field of data science.
